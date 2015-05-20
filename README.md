@@ -12,3 +12,5 @@ Colección de scripts para realizar backups de diferentes servicios y programas.
 - MediaWiki Backup:
 
   Script de ejemplo para realizar una copia de seguridad completa de una instancia de MediaWiki (DB + ficheros web).
+
+- Scripts basados en un script realizado por [@ismaro3](https://github.com/ismaro3).
